@@ -1,5 +1,12 @@
 ### Hi there 👋
-![Bishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwaproject&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bishwaproject&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwaproject" />
+
+
+<img alt="Java" align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+
 <!--
 **bishwaproject/bishwaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
