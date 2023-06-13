@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Bishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwaproject&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light)
 <!--
 **bishwaproject/bishwaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
