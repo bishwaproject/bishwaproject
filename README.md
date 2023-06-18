@@ -7,9 +7,8 @@
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Java Related:</h5>
+<h5 align="left">Java Technology:</h5>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white "/>
 <img alt="Spring" align="left" width="5%" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"/>
 <img alt="Spring boot" width="5%" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"/>
