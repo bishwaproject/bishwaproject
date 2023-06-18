@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Java</h3>
+<h3 align="center">I love Java</h3>
 
 
 - - 📫 How to reach me: bishwaproject@gmail.com
