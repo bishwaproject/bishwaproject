@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am Java Full Stack developer</h3>
+<h3 align="center">Java</h3>
 
 
 - - 📫 How to reach me: bishwaproject@gmail.com
