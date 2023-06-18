@@ -2,7 +2,7 @@
 <h3 align="center">I am Java Full Stack developer</h3>
 
 
-- - 📫 How to reach me: bishwaproject@gmail.com@gmail.com
+- - 📫 How to reach me: bishwaproject@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwaproject&label=Profile%20views&color=0e75b6&style=flat" alt="bishwaproject" /> </p>
 
