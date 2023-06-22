@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am Java full stack developer [more on backend JakartaEE previously JEE</h3>
+<h3 align="center">I am Java full stack developer [more on backend JakartaEE (previously JEE)]</h3>
 
 
 - - 📫 How to reach me: bishwaproject@gmail.com
