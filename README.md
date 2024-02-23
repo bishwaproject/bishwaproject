@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am Java full stack developer [more on backend JakartaEE (previously JEE)]</h3>
+
+# US-based Full-Stack Developer: | Open to Collaboration 
+**Passionate about:** Building impactful projects with Java and exploring new technologies like AI/ML.
+
+**Skills:** Extensive experience in full-stack development (Java, web, iOS). Eager to tackle exciting ventures with companies, startups, or fellow developers.
+
+**Open to:** Collaboration on both personal and professional projects, regardless of technology or domain (iOS, web, AI/ML).
+
+**Showcase:** This GitHub repository features demos, but I also have a Bitbucket repo dedicated to deeper exploration and learning.
+
+**Reach out:** Let's discuss potential collaborations!
 
 
 - - 📫 How to reach me: bishwaproject@gmail.com
