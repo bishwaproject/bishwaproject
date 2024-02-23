@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-# US-based Full-Stack Developer: | Open to Collaboration 
+# US-based Software Engineer: | Open to Collaboration 
 **Passionate about:** Building impactful projects with Java and exploring new technologies like AI/ML.
 
 **Skills:** Extensive experience in full-stack development (Java, web, iOS). Eager to tackle exciting ventures with companies, startups, or fellow developers.
