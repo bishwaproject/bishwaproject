@@ -7,7 +7,7 @@
 
 **Open to:** Collaboration on both personal and professional projects, regardless of technology or domain (iOS, web, AI/ML).
 
-**Showcase:** This GitHub repository features demos, but I also have a Bitbucket repo dedicated to deeper exploration and learning.
+**Showcase:** Aside from actively contributing to projects and architecting solutions, I've also taken on the responsibility of sharing knowledge within the team. This includes conducting Knowledge Transfer sessions with junior developers and those new to Java or similar technologies, where I not only cover advanced concepts but also ensure that they understand the importance of best practices and coding standards. Additionally, I regularly review and provide feedback on their code to help them grow. Furthermore, I maintain a GitHub repository featuring demos for quick reference, but for a more comprehensive understanding, I've established a dedicated Bitbucket repository where team members can delve into more complex topics and explore in-depth learning materials."
 
 **Reach out:** Let's discuss potential collaborations!
 
